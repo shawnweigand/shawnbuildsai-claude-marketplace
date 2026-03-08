@@ -1,0 +1,17 @@
+{
+  "name": "competitive-intel",
+  "version": "1.0.0",
+  "description": "Weekly competitive intelligence digest — research competitor websites, analyze recent posts, product updates, pricing changes, and events, then format as a structured digest with a cross-competitor comparison section.",
+  "author": {
+    "name": "Shawn Weigand"
+  },
+  "keywords": [
+    "competitive-intelligence",
+    "market-research",
+    "competitors",
+    "weekly-digest",
+    "business-strategy"
+  ],
+  "homepage": "https://github.com/shawnweigand/competitive-intel-plugin",
+  "license": "MIT"
+}
